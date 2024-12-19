@@ -30,4 +30,9 @@ In this project, we build a multiple linear regression model to predict the weig
 ## Conclusion
 This project demonstrates the use of multiple linear regression for predicting fish weight, including data preprocessing, handling multicollinearity, and model evaluation.
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## © 2024 Ali M Shafiei. All rights reserved.
+
 
